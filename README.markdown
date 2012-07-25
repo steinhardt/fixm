@@ -1,4 +1,4 @@
 fixm
 ====
 
-Perl script which tweets how much work you've got to do
+`fixm` is a script which scans a local directory and counts the instances of the flag "FIXME". The script then posts the results to a Twitter account.
